@@ -68,7 +68,7 @@ education:
     date_start: 2015-09-15
     date_end: 2019-06-15
     summary:
-      # GPA: 3.90/4.00
+      GPA: 3.9/4.0
 
       # Courses included:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
