@@ -59,7 +59,7 @@ education:
     date_end: 2020-08-10
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe S
-shed in 2 Springer journals.
+# shed in 2 Springer journals.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
