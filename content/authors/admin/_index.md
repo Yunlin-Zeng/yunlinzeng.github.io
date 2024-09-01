@@ -10,8 +10,8 @@ title: Yunlin Zeng
 # last_name: Chien
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -50,6 +50,7 @@ interests:
   - Machine Learning
   - Computational Imaging with Genative AI
   - Bayesian Inference
+  - Seismic Inverse Problem
   - Physics and Astronomy
 
 education:
@@ -74,16 +75,16 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# work:
+#   - position: Director of Cloud Infrastructure
+#     company_name: GenCoin
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2021-01-01
+#     date_end: ''
+#     summary: |2-
+#       Responsibilities include:
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 
 # Skills
@@ -93,40 +94,42 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      - name: Data Science
+      - name: Julia
+        description: ''
+        percent: 100
+        icon: code-bracket
+      - name: Bayesian Statistics
         description: ''
         percent: 100
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 50
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Hiking
+  #       description: ''
+  #       percent: 60
+  #       icon: person-simple-walk
+  #     - name: Cats
+  #       description: ''
+  #       percent: 100
+  #       icon: cat
+  #     - name: Photography
+  #       description: ''
+  #       percent: 80
+  #       icon: camera
 
 languages:
   - name: English
     percent: 100
   - name: Chinese
     percent: 100
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -145,3 +148,5 @@ languages:
 ## About Me
 
 I am a Ph.D. student of Physics at the Seismic Laboratory for Imaging and Modeling (SLIM) Lab at Georgia Tech. My research experience include computational imaging of subsurface using generative AI, planetary orbits inference and dynamics, and molecular dynamic simulation. I am very interested in leveraging machine learning and data science techniques to solve complex, real-world problems, such as applications of data-driven methods to physics inverse problems and uncertainty quantification. I am looking forward to roles where I can develop and implement advanced models that extract meaningful insights from large datasets. 
+
+
