@@ -54,9 +54,9 @@ sections:
   #     view: article-grid
   #     columns: 2
     - block: collection
-      id: papers
+      # id: papers
       content:
-        title: Featured Publications
+        title: Publications
         text: ""
         filters:
           folders:
