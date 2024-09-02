@@ -61,9 +61,10 @@ sections:
       filters:
         folders:
           - publication
-  #       # exclude_featured: false
-  #   design:
-  #     view: citation
+        # remember remove this in the future
+        exclude_featured: true
+    design:
+      view: citation
   # - block: collection
   #   id: talks
   #   content:
