@@ -61,8 +61,7 @@ sections:
       filters:
         folders:
           - publication
-        # remember remove this in the future
-        exclude_featured: true
+        exclude_featured: false
     design:
       view: citation
   # - block: collection
