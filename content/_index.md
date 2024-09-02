@@ -56,7 +56,7 @@ sections:
     - block: collection
       id: papers
       content:
-        title: Recent Publications
+        title: Featured Publications
         text: ""
         filters:
           folders:
