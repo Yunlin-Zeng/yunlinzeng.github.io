@@ -147,6 +147,6 @@ languages:
 
 ## About Me
 
-I am a Ph.D. student of Physics at the Seismic Laboratory for Imaging and Modeling (SLIM) Lab at Georgia Tech. My research experience include computational imaging of subsurface using generative AI, planetary orbits inference and dynamics, and molecular dynamic simulation. I am very interested in leveraging machine learning and data science techniques to solve complex, real-world problems, such as applications of data-driven methods to physics inverse problems and uncertainty quantification. I am looking forward to roles where I can develop and implement advanced models that extract meaningful insights from large datasets. 
+I am a Ph.D. student in Physics at the Seismic Laboratory for Imaging and Modeling (SLIM) Lab at Georgia Tech. My research experience include computational imaging of subsurface using generative AI, planetary orbits inference and dynamics, and molecular dynamic simulation. I am very interested in leveraging machine learning and data science techniques to solve complex, real-world problems, such as applications of data-driven methods to physics inverse problems and uncertainty quantification. I am looking forward to roles where I can develop and implement advanced models that extract meaningful insights from large datasets. 
 
 
